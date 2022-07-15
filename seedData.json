@@ -1,0 +1,132 @@
+{
+    "users":[
+                {
+                    "name": "MrBeast",
+                    "channels": [
+                        {
+                            "youtube_channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA"
+                        },
+                        {
+                            "youtube_channel_id": "UCAiLfjNXkNv24uhpzUgPa6A"
+                        },
+                        {
+                            "youtube_channel_id": "UC4-79UOlP48-QNGgCko5p2g"
+                        },
+                        {
+                            "youtube_channel_id": "UCIPPMRA040LQr5QPyJEbmXA"
+                        },
+                        {
+                            "youtube_channel_id": "UCUaT_39o1x6qWjz7K2pWcgw"
+                        },
+                        {
+                            "youtube_channel_id": "UCZzvDDvaYti8Dd8bLEiSoyQ"
+                        },
+                        {
+                            "youtube_channel_id": "UC4uKK_YwAxTfad3x8cAJb6A"
+                        }
+                    ]
+                },
+                {
+                    "name": "JJ Olatunji",
+                    "channels": [
+                        {
+                          "youtube_channel_id": "UCGmnsW623G1r-Chmo5RB4Yw" 
+                        }
+                    ]
+                },
+                {
+                    "name": "Justin Beiber",
+                    "channels": [
+                        {
+                            "youtube_channel_id": "UCIwFjwMjI0y7PDBVEO9-bkQ"
+                        }
+                    ]
+                },
+                {
+                    "name": "NBA",
+                    "channels": [
+                        {
+                            "youtube_channel_id": "UCWJ2lWNubArHWmf3FIHbfcQ"
+                        },
+                        {
+                            "youtube_channel_id": "UCM5uQEGUy9b1hKUknvBa50A"
+                        },
+                        {
+                            "youtube_channel_id": "UC4h5koEDpJzOg0QtkukfLbw"
+                        },
+                        {
+                            "youtube_channel_id": "UCU7iRrk3xfpUk0R6VdyC1Ow"
+                        },
+                        {
+                            "youtube_channel_id": "UCiWLfSweyRNmLpgEHekhoAg"
+                        },
+                        {
+                            "youtube_channel_id": "UCpGimyrbwRtrcJ-CIiRDXbA"
+                        },
+                        {
+                            "youtube_channel_id": "UCO9a_ryN_l7DIDS-VIt-zmw"
+                        },
+                        {
+                            "youtube_channel_id": "UCk3-3xJydA7m_pZt2ncCEXQ"
+                        }
+                    ]
+                },
+                {
+                    "name": "Zayn",
+                    "channels": [
+                        {
+                            "youtube_channel_id": "UC3PdiRW5dUA4V70ueeR1eHA"
+                        },
+                        {
+                            "youtube_channel_id": "UCy5FUarBYUHFpPtYVuvzgcA"
+                        }
+                    ]
+                },
+                {
+                    "name": "DAZN Boxing",
+                    "channels": [
+                        {
+                            "youtube_channel_id": "UCurvRE5fGcdUgCYWgh-BDsg"
+                        }
+                    ]
+                },
+                {
+                    "name": "NBC News",
+                    "channels": [
+                        {
+                            "youtube_channel_id": "UCeY0bbntWzzVIaj2z3QigXg"
+                        }
+                    ]
+                },
+                {
+                    "name": "Saturday Night Live",
+                    "channels": [
+                        {
+                            "youtube_channel_id": "UCqFzWxSCi39LnW1JKFR3efg"
+                        }
+                    ]
+                },
+                {
+                    "name": "Daily Dose Of Internet",
+                    "channels": [
+                        {
+                            "youtube_channel_id": "UCdC0An4ZPNr_YiFiYoVbwaw"
+                        }
+                    ]
+                },
+                {
+                    "name": "Dude Perfect",
+                    "channels": [
+                        {
+                            "youtube_channel_id": "UCmo9ZEJ3ipgaZdkiRRYtLAg"
+                        },
+                        {
+                            "youtube_channel_id": "UC6Z5X_C2dLCBnaQENCPyHuA"
+                        },
+                        {
+                            "youtube_channel_id": "UCZFhj_r-MjoPCFVUo3E1ZRg"
+                        }
+                    ]
+                }   
+            ]
+}
